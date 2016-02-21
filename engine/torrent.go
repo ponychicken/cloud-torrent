@@ -3,7 +3,7 @@ package engine
 import (
 	"time"
 
-	"github.com/anacrolix/torrent"
+	"github.com/ponychicken/torrent"
 )
 
 type Torrent struct {

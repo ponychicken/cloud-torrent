@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/anacrolix/torrent"
+	"github.com/ponychicken/torrent"
 )
 
 //the Engine Cloud Torrent engine, backed by anacrolix/torrent

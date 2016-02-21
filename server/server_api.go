@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/metainfo"
-	"github.com/jpillora/cloud-torrent/engine"
+	"github.com/ponychicken/torrent"
+	"github.com/ponychicken/torrent/metainfo"
+	"github.com/ponychicken/cloud-torrent/engine"
 )
 
 func (s *Server) api(r *http.Request) error {
