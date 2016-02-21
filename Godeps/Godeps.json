@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/jpillora/cloud-torrent",
+	"ImportPath": "github.com/ponychickencloud-torrent",
 	"GoVersion": "go1.5.2",
 	"Deps": [
 		{
