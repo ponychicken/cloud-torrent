@@ -20,8 +20,8 @@
 			"Rev": "812602587b72df6a2a4f6e30536adc75394a374b"
 		},
 		{
-			"ImportPath": "github.com/anacrolix/torrent",
-			"Rev": "8bbfcfcaa4b2fba8ab67f836718af2f85d16aaed"
+			"ImportPath": "github.com/ponychicken/torrent",
+			"Rev": "ff7e06a05429f0dd7c93531a1d6e10785ff657fa"
 		},
 		{
 			"ImportPath": "github.com/anacrolix/utp",
